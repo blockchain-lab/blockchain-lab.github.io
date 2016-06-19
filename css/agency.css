@@ -234,6 +234,8 @@ header {
   -o-background-size: cover;
   text-align: center;
   color: white;
+/*!  Bang, just hardcode it for now at 540px */
+  height: 540px;
 }
 header .intro-text {
   padding-top: 100px;
